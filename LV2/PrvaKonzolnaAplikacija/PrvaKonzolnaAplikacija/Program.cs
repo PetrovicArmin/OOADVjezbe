@@ -6,6 +6,7 @@ namespace PrvaKonzolnaAplikacija
     {
         static void Main(string[] args)
         {
+            //ovo je moja promjena ovog projekta
             // unos brojeva
             Console.WriteLine("Unesite šest prirodnih brojeva (razdvojenih zarezom):");
             string ulaz = Console.ReadLine();
